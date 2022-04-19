@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Software Engineering Project",
+        "organization": "University of South Carolina",
+        "language": "Java",
+        "completed": 2021,
+        "description": "This was a group Java assignment to create a Internship-finding program for South Carolina computing students."
+    },
+    {
+        "title": "Digital Porfolio",
+        "organization": "Newport Area Career and Technical Center",
+        "language": "HTML/CSS",
+        "completed": 2020,
+        "description": "This was my digital portfolio from when I was in high school taking information technology and computer science classes. Last updated 2020"
+    },
+    {
+        "title": "JavaScript Assignment",
+        "organization": "University of Limerick",
+        "language": "HTML/JavaScript",
+        "completed": 2022,
+        "description": "This was an assignment for this class to allow the user to create grid of user-define dimentions of squares that change color on rollover."
+    }
+]

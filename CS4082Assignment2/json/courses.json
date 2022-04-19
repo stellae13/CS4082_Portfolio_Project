@@ -1,0 +1,90 @@
+[
+    {
+        "courseCode": "CS4082",
+        "couseTitle": "Introduction to Web Development",
+        "lab": true,
+        "university": "University of Limerick",
+        "semester": "Spring",
+        "year": 2022
+    },
+    {
+        "courseCode": "CS4815",
+        "couseTitle": "Computer Graphics",
+        "lab": true,
+        "university": "University of Limerick",
+        "semester": "Spring",
+        "year": 2022
+    },
+    {
+        "courseCode": "CS4115",
+        "couseTitle": "Data Structures and Algorithms",
+        "lab": true,
+        "university": "University of Limerick",
+        "semester": "Spring",
+        "year": 2022
+    },
+    {
+        "courseCode": "HI4142",
+        "couseTitle": "Game of Thrones",
+        "lab": false,
+        "university": "University of Limerick",
+        "semester": "Spring",
+        "year": 2022
+    },
+    {
+        "courseCode": "CSCE247",
+        "couseTitle": "Software Engineering",
+        "lab": false,
+        "university": "University of South Carolina",
+        "semester": "Fall",
+        "year": 2021
+    },
+    {
+        "courseCode": "CSCE240",
+        "couseTitle": "Advanced Programming Techniques",
+        "lab": false,
+        "university": "University of South Carolina",
+        "semester": "Spring",
+        "year": 2021
+    },
+    {
+        "courseCode": "CSCE146",
+        "couseTitle": "Alogrithmic Design 2",
+        "lab": false,
+        "university": "University of South Carolina",
+        "semester": "Fall",
+        "year": 2020
+    },
+    {
+        "courseCode": "MATH145",
+        "couseTitle": "Calculus 1",
+        "lab": false,
+        "university": "University of South Carolina",
+        "semester": "Fall",
+        "year": 2020
+    },
+    {
+        "courseCode": "MATH146",
+        "couseTitle": "Calculus 2",
+        "lab": false,
+        "university": "University of South Carolina",
+        "semester": "Spring",
+        "year": 2021
+    },
+    {
+        "courseCode": "CHEM 111",
+        "couseTitle": "Chemistry 1",
+        "lab": true,
+        "university": "University of South Carolina",
+        "semester": "Spring",
+        "year": 2021
+    },
+    {
+        "courseCode": "CHEM 112",
+        "couseTitle": "Chemistry 2",
+        "lab": true,
+        "university": "University of South Carolina",
+        "semester": "Fall",
+        "year": 2021
+    }     
+]

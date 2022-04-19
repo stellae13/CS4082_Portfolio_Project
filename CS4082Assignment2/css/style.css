@@ -1,0 +1,75 @@
+.btn a {
+    border: none;
+    background-color: #f0a3de;
+    color:#77408f;
+    padding: 20px 20px;
+    font-size:20px;
+    cursor: pointer;
+	outline: none;
+    border-radius: 5%;
+	margin: 0;
+    overflow: hidden;
+}
+
+.btn {
+    padding: 0px 0px;
+    border: hidden;
+    font-family: 'Tillana';  
+}
+
+.btn a:hover {
+    background: #d6a3f0;
+}
+
+.btn a:focus {
+    background-color:#d6a3f0;
+}
+
+.btn a:active {
+  background-color: #d6a3f0;
+  box-shadow: 0 5px #d6a3f0;
+  border: 1px;
+   }
+  
+ a {
+	color: #77408f;
+}
+
+body {
+    font-family: 'Tillana';
+	font-size: 22px;
+	background-size:cover;
+    color:#77408f;
+}
+
+table {
+    height:98.5%;
+    width: 99%;
+    position: absolute;
+}
+h1 {
+    text-align: center;
+}
+
+/* Bootstrap */
+.row {
+    width:100%;
+    text-align: center;
+}
+.col-12 {
+    width:100%;
+    text-align: center;
+}
+.col-9 {
+    width: 75%;
+}
+
+.col-6 {
+    width: 50%;
+}
+.col-4 {
+    width: 33.33%;
+    padding:10px;
+}
+
+
